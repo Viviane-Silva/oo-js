@@ -1,11 +1,11 @@
 // herança - baseada em prototipos, prototype, __proto__
 
-function Pessoa(name){
-    this.name = name;
-}
+// function Pessoa(name){
+//     this.name = name;
+// }
 
-const p = new Pessoa(`Vivi`);
-console.log(p)// retorna o nome `Vivi`
+// const p = new Pessoa(`Vivi`);
+// console.log(p)// retorna o nome `Vivi`
 
 function Pessoa(name){
     this.name = name;
